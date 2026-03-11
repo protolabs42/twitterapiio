@@ -1,0 +1,8 @@
+name: twitterapiio
+title: TwitterAPI.io
+description: Twitter data retrieval via TwitterAPI.io — search tweets, get user profiles, followers, lists, communities, trends, and real-time streams.
+version: 0.1.0
+settings_sections:
+  - external
+per_project_config: false
+per_agent_config: false
